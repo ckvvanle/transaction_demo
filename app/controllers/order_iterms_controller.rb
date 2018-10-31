@@ -1,0 +1,2 @@
+class OrderItermsController < ApplicationController
+end
